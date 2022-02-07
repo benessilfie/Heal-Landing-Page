@@ -1,1 +1,1 @@
-# First Major Project: DopeUI
+# First Major Project: Dope UI
