@@ -1,1 +1,14 @@
+nav {
+  position: relative;
+  background-color: white;
+  padding-top: 1.0625rem;
+  padding-bottom: 1.0625rem;
+  z-index: 2;
 
+  .header__logo {
+    img {
+      width: 5.1875rem;
+      height: 3.414375rem;
+    }
+  }
+}
